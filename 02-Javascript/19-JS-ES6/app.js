@@ -51,7 +51,7 @@
 // hello("abdullah", "usman", "ammar", "zain", "hassan");
 
 //ternary operator
-const num = 220;
+// const num = 220;
 // if (num > 50) {
 //   console.log("passed");
 // } else {
@@ -93,6 +93,7 @@ const num = 220;
 // };
 // console.log(user);
 
+<<<<<<< Updated upstream
 // Variable Scoping
 
 // var username = "abdullah";
@@ -191,3 +192,15 @@ console.log((2 + 3) ** 2);
 //async await
 
 // local storage https://www.youtube.com/watch?v=Xf0hPx9VoVs
+=======
+
+
+// const obj = {
+//     nme:'huzi',
+//     age:30
+// }
+// const {nme,age} =obj
+// console.log(nme,age);
+
+
+>>>>>>> Stashed changes

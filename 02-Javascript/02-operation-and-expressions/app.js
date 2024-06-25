@@ -120,10 +120,30 @@
 
 
 
+// var j = 'jeijce'
+
+// if(true){
+//     j = '123'
+//     console.log(j);
+// }
+// console.log(j);
 
 
+// let j = 'jeijce'
 
+// if(true){
+//    let j = '123'
+//     console.log(j);
+// }
+// console.log(j);
 
+var k = 123
+function we(){
+var k =111
+console.log(k);
+}
+we()
+console.log(k);
 
 
 
